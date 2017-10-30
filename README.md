@@ -1,2 +1,5 @@
-# pons
-pons token
+## Pons
+ERC20 token
+
+## License
+MIT License
